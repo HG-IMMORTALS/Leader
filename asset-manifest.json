@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HG-IMMORTALS/Leader/static/css/main.1c56c1ee.css",
-    "main.js": "/HG-IMMORTALS/Leader/static/js/main.551c49f8.js",
-    "static/media/Image2.avif": "/HG-IMMORTALS/Leader/static/media/Image2.102af4b98b1553ea052e.avif",
-    "static/media/Image1.jpg": "/HG-IMMORTALS/Leader/static/media/Image1.d2ff2ee65586442cb6e9.jpg",
-    "index.html": "/HG-IMMORTALS/Leader/index.html",
-    "main.1c56c1ee.css.map": "/HG-IMMORTALS/Leader/static/css/main.1c56c1ee.css.map",
-    "main.551c49f8.js.map": "/HG-IMMORTALS/Leader/static/js/main.551c49f8.js.map"
+    "main.css": "/Leader/static/css/main.1c56c1ee.css",
+    "main.js": "/Leader/static/js/main.d4d479c6.js",
+    "static/media/Image2.avif": "/Leader/static/media/Image2.102af4b98b1553ea052e.avif",
+    "static/media/Image1.jpg": "/Leader/static/media/Image1.d2ff2ee65586442cb6e9.jpg",
+    "index.html": "/Leader/index.html",
+    "main.1c56c1ee.css.map": "/Leader/static/css/main.1c56c1ee.css.map",
+    "main.d4d479c6.js.map": "/Leader/static/js/main.d4d479c6.js.map"
   },
   "entrypoints": [
     "static/css/main.1c56c1ee.css",
-    "static/js/main.551c49f8.js"
+    "static/js/main.d4d479c6.js"
   ]
 }
